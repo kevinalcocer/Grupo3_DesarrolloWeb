@@ -5,7 +5,7 @@ Buen día, nuestro grupo está conformado por:
 - David Molineros
 - Kevin Alcocer
 - Adrian Chin
-- Maria G. Guevara.
+- Gabriela Guevara.
 
 Nuestro aplicativo web es diseñado para la Panadería "Dulce Pan"
 
