@@ -1,5 +1,5 @@
 # Grupo3_DesarrolloWeb
-De sarrollo de aplicaciones web 10522 
+Desarrollo de aplicaciones web 10522 
 Buen día, nuestro grupo está conformado por:
 - Juan Molina
 - David Molineros
